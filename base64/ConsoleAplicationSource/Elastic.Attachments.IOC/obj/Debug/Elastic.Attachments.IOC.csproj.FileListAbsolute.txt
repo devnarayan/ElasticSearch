@@ -1,0 +1,14 @@
+C:\Users\daniel\Desktop\STAGE_1\ConsoleAplicationSource\Elastic.Attachments.IOC\bin\Debug\Elastic.Attachments.IOC.dll
+C:\Users\daniel\Desktop\STAGE_1\ConsoleAplicationSource\Elastic.Attachments.IOC\bin\Debug\Elastic.Attachments.IOC.pdb
+C:\Users\daniel\Desktop\STAGE_1\ConsoleAplicationSource\Elastic.Attachments.IOC\bin\Debug\Autofac.dll
+C:\Users\daniel\Desktop\STAGE_1\ConsoleAplicationSource\Elastic.Attachments.IOC\bin\Debug\Autofac.xml
+C:\Users\daniel\Desktop\STAGE_1\ConsoleAplicationSource\Elastic.Attachments.IOC\obj\Debug\Elastic.Attachments.IOC.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\STAGE_1\ConsoleAplicationSource\Elastic.Attachments.IOC\obj\Debug\Elastic.Attachments.IOC.dll
+C:\Users\daniel\Desktop\STAGE_1\ConsoleAplicationSource\Elastic.Attachments.IOC\obj\Debug\Elastic.Attachments.IOC.pdb
+E:\Danial MVC\base64\ConsoleAplicationSource\Elastic.Attachments.IOC\bin\Debug\Elastic.Attachments.IOC.dll
+E:\Danial MVC\base64\ConsoleAplicationSource\Elastic.Attachments.IOC\bin\Debug\Elastic.Attachments.IOC.pdb
+E:\Danial MVC\base64\ConsoleAplicationSource\Elastic.Attachments.IOC\bin\Debug\Autofac.dll
+E:\Danial MVC\base64\ConsoleAplicationSource\Elastic.Attachments.IOC\bin\Debug\Autofac.xml
+E:\Danial MVC\base64\ConsoleAplicationSource\Elastic.Attachments.IOC\obj\Debug\Elastic.Attachments.IOC.csprojResolveAssemblyReference.cache
+E:\Danial MVC\base64\ConsoleAplicationSource\Elastic.Attachments.IOC\obj\Debug\Elastic.Attachments.IOC.dll
+E:\Danial MVC\base64\ConsoleAplicationSource\Elastic.Attachments.IOC\obj\Debug\Elastic.Attachments.IOC.pdb
